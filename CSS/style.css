@@ -244,7 +244,7 @@ main{
 /* TESTIMONIOS */
 .testimonials-section{
   position: relative;
-  background: url("IMG/Cold-Crush-Brothers-WildStyle-Movie-Dixie-Club-1981-Bronx-NYC-Photo-Joe-Conzo-01123.jpg") center/cover no-repeat;
+  background: url("../IMG/Cold-Crush-Brothers-WildStyle-Movie-Dixie-Club-1981-Bronx-NYC-Photo-Joe-Conzo-01123.jpg") center/cover no-repeat;
   padding: 100px 0;
   color: #fff;
   overflow: visible;
@@ -603,3 +603,4 @@ main{
         height: 200px; 
     }
 }
+
